@@ -1,4 +1,6 @@
 School District Standardized Test Analysis 
+
+
 Using the capabilities of Python through the commonly used IDE, Jupyter Notebook, we were able to analyze the trends of standardizeed test scores across different subjects and eventually decide if the allocation of education funds were used in an efficient way and ideally, every dollar spent would give each student the best chcance of success. 
 When we manipulate the given data, assuming a proficient analyst uses the correct script for this application, two main trends/conclusions are clear. 
 1. Charter school students score significantly higher in both reading and math across all variables (Funding, Size, Grade). Additionally, charter schools in our district score remarkably higher with less funding.
